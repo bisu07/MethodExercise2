@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.exe
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.deps.json
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.dll
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\bin\Debug\netcoreapp3.1\MethodExcercise2.pdb
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.dll
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.pdb
+C:\Users\bishal\Desktop\repos\MethodExcercise2\MethodExcercise2\obj\Debug\netcoreapp3.1\MethodExcercise2.genruntimeconfig.cache
